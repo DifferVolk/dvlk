@@ -1,0 +1,10 @@
+// (c) 2021 Volk
+using @fkcd
+using @pkg.vkg
+using @vkproj
+
+bdl(org.dvlk.entries)
+vkproj.name("Entries")
+vkproj.dir("dvlk/_files/proj.vkg/")
+
+#done
