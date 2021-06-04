@@ -1,0 +1,3 @@
+proj.lnk("dvlk/dvlk.vkproj")
+proj.bdl(org.dvlk.entries)
+#done
