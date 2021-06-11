@@ -7,6 +7,6 @@ using @fkcd
 
 bdl(org.dvlk.entries)
 vkproj.name("Entries")
-vkproj.dir("dvlk/_files/proj.vkg/")
+vkproj.dir(dvlk/_files/proj.vkg/)
 
 #done
