@@ -1,7 +1,9 @@
 // (c) 2021 Volk
-using @fkcd
-using @pkg.vkg
+
 using @vkproj
+[using @pkg.vkg]
+
+using @fkcd
 
 bdl(org.dvlk.entries)
 vkproj.name("Entries")
